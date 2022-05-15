@@ -1,0 +1,11 @@
+pyrogram
+TgCrypto
+hachoir
+Pillow
+humanfriendly
+motor
+aiofiles
+aiohttp
+dnspython
+psutil
+random
